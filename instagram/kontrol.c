@@ -29,7 +29,7 @@ int main(){
 			takipcisayac++;
 		}
 	}
-	printf(" takipçi sayýnýz : %d\n",takipcisayac);
+	printf(" takipÃ§i sayÄ±nÄ±z : %d\n",takipcisayac);
 	
 	fclose(Ftakipci);
 	
@@ -50,7 +50,7 @@ int main(){
 			takipsayac++;
 		}
 	}
-	printf(" takip sayýnýz : %d\n",takipsayac);
+	printf(" takip sayÄ±nÄ±z : %d\n",takipsayac);
 	
 	fclose(Ftakip);
 	
